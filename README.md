@@ -1,9 +1,3 @@
 # SkiaPlot
-
-## TODO
- - [ ] Check `RenderDemo` sample in `AvaloniaUI` repo
- - [ ] Draw square using Skia
- - [ ] Draw bitmap using Skia
-
-## Notes
- -
+ - Disucuss if this approach is valid at avalonia repo
+ - Search for how are usually implemented sizings and layouts
